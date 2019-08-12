@@ -25,15 +25,15 @@ Nohup
 ## Screenshots
 
 ### Sign Up
-![Sign Up] (https://i.lensdump.com/i/ijbpFk.png)
+![Sign Up](https://i.lensdump.com/i/ijbpFk.png)
 
 ### Login
-![Login] (https://i.lensdump.com/i/ijbZqv.png)
+![Login](https://i.lensdump.com/i/ijbZqv.png)
 
 ### Main Account 
 
 ### Notifications
-![Notifications] (https://i.lensdump.com/i/ijbgYC.png)
+![Notifications](https://i.lensdump.com/i/ijbgYC.png)
 
 ### SideNav
-![SideNav] (https://lensdump.com/i/sidenav.ijbI02)
+![SideNav](https://lensdump.com/i/sidenav.ijbI02)
