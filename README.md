@@ -6,20 +6,20 @@ Track your cryptocurrencies and analyze them! We did not get it completely worki
 
 ## Technologies used
 
-Handlebars 
-Express
-Node
-Axios
-Materialize 
-Bittrex API 
-MySql2
-Moment 
-Canvas JS
-BCrypt 
-Crypto Control API
-Google Cloud Compute 
-Winston
-Forever
+Handlebars,
+Express,
+Node,
+Axios,
+Materialize,
+Bittrex API, 
+MySql2,
+Moment,
+Canvas JS,
+BCrypt, 
+Crypto Control API,
+Google Cloud Compute, 
+Winston,
+Forever,
 Nohup
 
 ## Screenshots
@@ -36,4 +36,4 @@ Nohup
 ![Notifications](https://i.lensdump.com/i/ijbgYC.png)
 
 ### SideNav
-![SideNav](https://lensdump.com/i/sidenav.ijbI02)
+![SideNav](https://i.lensdump.com/i/ijbI02.png)
